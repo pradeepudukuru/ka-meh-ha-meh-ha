@@ -1,0 +1,6 @@
+>3.0 Architecture 
+     -> Architecture Contains 
+        Sessions
+
+
+>How Business Analysts creates Forms , workflow(design time) ,How they use application

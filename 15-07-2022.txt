@@ -1,0 +1,131 @@
+>Download git from  https://git-scm.com/download/win
+
+>learn
+ Components 
+ Routing 
+ Templates-Two types
+ Bindings
+ pipes
+ Directives
+ Routing & Navigation
+ Form - reactive & native
+ Calling--HTTp
+ import--Http module
+ Lazy loading
+
+-----see live example in https://angular.io/guide/example-apps-list  **
+learn from https://angular.io/docs
+
+>Create one Project
+   Learn How one module connected to another module
+   Learn How one Component connected to another component
+
+>Learn Entity Framework
+
+>Dynamic Linq
+
+we Currently use three Database --- mysql, sql, postgresql
+
+>Learn what is api to call an api ,what is rest api
+
+
+>Watch Mosh Hamedani video angular 2hr from youtube
+>Change Default terminal to CMD in vscode:
+  ctrl+Shift+P
+  Type terminal - select Default profile - then select command prompt
+  Default powershell is selected in vs code
+  
+>Commands 
+ ng v
+ node --version
+ ng g c Componentname
+ ng g m ModuleName
+ ng g p pipename
+ ng g s servicename
+ ng g d directivename
+ ng g library librayname--contains??
+
+ ng new applicationname (create path)
+ ng serve (open application path then open cmd then use this command)
+ ng install primemg   (it is a library)
+ 
+ shortcuts---open folder then type cmd then in cmd type code.
+
+>files used for
+ Spec.ts -- unit testing
+ module -- routing
+ ts files --script
+ 
+
+>Tasks
+
+ 1)Data binding concept
+  >Enter data in text box and name in the textbox should be displayed with hello message
+  >we have property and variable use this
+      ->if we declare some values inside the method the it is a variable
+      ->if we declare values or get values other files then it is a property , property is in outside of method
+  >cover Four data binding concepts in this task are :
+      ->Data polarization is a one way data binding and uses double curly brackets to bind data in html	
+      ->two way data binding 
+      ->Property binding
+      ->Attribute binding
+  >create three components and use these four data binding concepts 
+
+>angular is also like mvc the files are:
+ html --view
+ Component-- Module
+ Services -- controller  ---
+  
+ Example :
+  -> home componet and about component 
+     Data (name) in home componet sent about component using services
+ what is persistance ??
+
+>Learn some concepts
+ c# view data view bag
+ web packing
+ providers --- 1)pass by value  2) pass by reference
+ Imports
+ SSH - Configuration
+
+>Watch trevor hanson videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
